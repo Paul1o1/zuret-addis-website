@@ -4851,6 +4851,7 @@ body.search-is-visible {
     }
     .s-content__media {
         margin-bottom: var(--vspace-1_5);
+        margin-top: var(--vspace-1_5);
     }
     .s-content__entry-header {
         margin-top: var(--vspace-1_5);
